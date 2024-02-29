@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\assets\\images\\blog-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\assets\\images\\delete1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\delete1.png"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\assets\\images\\edit1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\edit1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\contacts-display.html",
+      "PackagePath": "staticwebassets\\contacts-display.html"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\css\\common.css",
+      "PackagePath": "staticwebassets\\css\\common.css"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\css\\displayContact.css",
+      "PackagePath": "staticwebassets\\css\\displayContact.css"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\home.html",
+      "PackagePath": "staticwebassets\\home.html"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\js\\contact-display.js",
+      "PackagePath": "staticwebassets\\js\\contact-display.js"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\js\\home.ts",
+      "PackagePath": "staticwebassets\\js\\home.ts"
+    },
+    {
+      "Id": "C:\\Users\\gopi.g\\Desktop\\AddressBookAPI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AddressBookAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AddressBookAPI.props",
+      "PackagePath": "build\\AddressBookAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AddressBookAPI.props",
+      "PackagePath": "buildMultiTargeting\\AddressBookAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AddressBookAPI.props",
+      "PackagePath": "buildTransitive\\AddressBookAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

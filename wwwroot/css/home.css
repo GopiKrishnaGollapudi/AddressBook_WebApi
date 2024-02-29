@@ -1,0 +1,51 @@
+.title-section {
+    margin: 0px;
+    height: auto;
+    background-color: #3399CC;
+    color: white;
+    padding: 25px 20px;
+    font-family: "Century Gothic";
+}
+
+.title-section h1 {
+    font-size: 52px;
+    font-weight: 400;
+    margin: 0px;
+}
+
+.nav-section {
+    margin: 0px;
+    height: auto;
+    background-color: #333333;
+    padding: 0px 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-section ul {
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    padding: 10px 10px 10px 0px;
+}
+
+.nav-section ul li {
+    list-style-type: none;
+    padding: 0px 20px 0px 0px;
+}
+
+.nav-section ul li a {
+    text-decoration: none !important;
+    font-weight: bold;
+    color: white;
+}
+
+.nav-section p {
+    flex: auto;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+}

@@ -1,0 +1,121 @@
+body {
+    margin: 0%;
+}
+
+
+.contact-form {
+    width: 700px;
+    height: auto;
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    left: 40%;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.9);
+    padding: 25px;
+    z-index: 1;
+    background-color: white;
+}
+
+.contact-form div {
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact-form div label {
+    margin: 5px 0px 0px 0px;
+    font-weight: bold;
+    width: 100%;
+}
+
+.contact-form div input[type=text] {
+    height: 35px;
+    margin: 5px 0px;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.mobile-items {
+    display: flex;
+    flex-direction: row;
+    width: 100% !important;
+}
+
+.mobile-items div {
+    width: 48%;
+}
+
+.mobile-items div label {
+    width: 100%;
+}
+
+.mobile-items div input[type=text] {
+    width: 100%;
+}
+
+.end-position {
+    margin-left: auto;
+}
+
+.address-box {
+    height: 100px !important;
+}
+
+.form-fields {
+    margin-bottom: 60px;
+}
+
+.contact-form input[type=submit] {
+    margin: auto 20px 20px auto;
+    width: 100px;
+    height: 30px;
+    border: none;
+    right: 0;
+    background-color: #468C00;
+    color: white;
+}
+
+span {
+    color: red;
+}
+
+.contact-table {
+    margin: 20px 20px;
+    width: 30%;
+}
+
+.contact-table div {
+    margin: 15px 0px;
+    font-weight: bold;
+}
+
+.contact-table table {
+    display: flex;
+    flex-direction: column;
+    width: 375px;
+    height: auto;
+}
+
+.contact-table table tr {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    border: 1px solid #CCCCCC;
+    padding: 10px;
+}
+
+.contact-table table tr td {
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+.contact-name {
+    font-size: 28px !important;
+    font-weight: 300;
+    padding-left: 0px !important;
+}
+
+.contact {
+    background-color: black;
+}

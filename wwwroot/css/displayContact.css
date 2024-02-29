@@ -1,0 +1,125 @@
+.content {
+    display: flex;
+}
+
+.display-contact {
+    width: 300px;
+    margin: 45px 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.display-contact div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.display-contact div p {
+    margin: 5px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.button-section {
+    display: flex;
+    flex-direction: row;
+    margin: 50px 30px;
+}
+
+.button-section button {
+    width: 100px;
+    height: 24px;
+    border: none;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.button-section button img {
+    margin-right: 5px;
+    width: 16px;
+}
+
+.edit-image {
+    margin: 4px 5px;
+}
+
+.button-section button p {
+    margin: 4px 5px;
+}
+
+.edit-form {
+    width: 700px;
+    height: auto;
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    left: 40%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.9);
+    padding: 25px;
+    z-index: 1;
+    background-color: white;
+}
+
+.edit-form div {
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.edit-form div label {
+    margin: 5px 0px 0px 0px;
+    font-weight: bold;
+    width: 100%;
+}
+
+.edit-form div input[type=text] {
+    height: 35px;
+    margin: 5px 0px;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.mobile-items {
+    display: flex;
+    flex-direction: row;
+    width: 100% !important;
+}
+
+.mobile-items div {
+    width: 48%;
+}
+
+.mobile-items div label {
+    width: 100%;
+}
+
+.mobile-items div input[type=text] {
+    width: 100%;
+}
+
+.end-position {
+    margin-left: auto;
+}
+
+.address-box {
+    height: 100px !important;
+}
+
+.edit-form input[type=submit] {
+    margin: auto 20px 20px auto;
+    width: 100px;
+    height: 30px;
+    border: none;
+    right: 0;
+    background-color: #468C00;
+    color: white;
+}
+
+.focus-contact{
+    background-color: #CEE7F2;
+}
